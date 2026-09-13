@@ -614,6 +614,7 @@ const iflytekModels = [
 
 const deepseekModels = [  
   "deepseek-v4-pro",
+  "deepseek-flash",
   "deepseek-v4-flash",
   "deepseek-v4-flash-vision-exp",
 ];
@@ -670,6 +671,7 @@ const siliconflowModels = [
   "Qwen/Qwen2.5-7B-Instruct",
   "Qwen/Qwen2.5-72B-Instruct",
   "deepseek-v4-pro",
+  "deepseek-flash",
   "deepseek-v4-flash",
   "deepseek-v4-flash-vision-exp",
   "deepseek-r2", 
@@ -682,6 +684,8 @@ const siliconflowModels = [
 
 const ai302Models = [
   "deepseek-chat",
+  "deepseek-flash",
+  "deepseek-v4-pro",
   "gpt-4o",
   "chatgpt-4o-latest",
   "llama3.3-70b",
